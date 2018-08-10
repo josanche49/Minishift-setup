@@ -5,5 +5,8 @@ These steps are retrieve from [docs](https://docs.okd.io/latest/minishift/index.
 
 ## Prerequisits:
 
-For this installion, we require that you have homebrew installed. if not, execute the following
-```/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"```
+For this installion, we require that you have homebrew installed. if not, execute the following:
+
+``` bash
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
